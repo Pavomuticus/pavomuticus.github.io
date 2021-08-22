@@ -1,1 +1,1 @@
-[use-package](usepackage-manual)
+[use-package](usepackage-manual.md)
