@@ -480,7 +480,7 @@
            (message (error-message-string err))))
 ```
 
-Evaluating上述form将打印以下消息:
+对上述表达式求值将打印以下消息:
 
 ```
 I’m here at byte-compile and load time.
